@@ -10,6 +10,8 @@
 6.填充字段：填充< unk > ,判断是否在vocab中, 不在填充 < unk >；填充< start > < end >； 判断长度，填充　< pad >  
 7.再次词表更新，需要再训练一次word2vec model后重新获取embedding matrix  
 8.sentence的数值转换  
+![wordcloud](https://user-images.githubusercontent.com/64532223/153080109-88c05b0c-78d8-4106-9ba2-36e5f5e4a3b2.png)
+
 ## Modeling
 ### Seq-Seq model（simple）
 ### Seq-Seq model with attention
