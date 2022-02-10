@@ -50,4 +50,4 @@ decoder input：第一位输入使用`<S>`，其后使用上一时刻的输出�
 
 ![img](https://upload-images.jianshu.io/upload_images/244848-464154d2a8369253.png?imageMogr2/auto-orient/strip|imageView2/2/w/934)
 
-![截屏2022-02-10 19.27.52](/Users/mariette/Library/Application Support/typora-user-images/截屏2022-02-10 19.27.52.png)
+<img width="748" alt="截屏2022-02-10 19 35 00" src="https://user-images.githubusercontent.com/64532223/153473918-38126cd9-f79c-4ce5-be49-412b11e91018.png">
