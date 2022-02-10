@@ -14,10 +14,7 @@
 
 ## Modeling
 ### Seq-Seq model（simple）
-模型笔记如下
-[Sequence to Sequence 模型笔记.md](https://github.com/zhaojunGUO/Q-A-summary/files/8043408/Sequence.to.Sequence.md)
 
 ### Seq-Seq model with attention
-[Sequence to Sequence 模型笔记.md](https://github.com/zhaojunGUO/Q-A-summary/files/8043408/Sequence.to.Sequence.md)
 
 ### Seq-Seq model with Pointer-Generator Networks
