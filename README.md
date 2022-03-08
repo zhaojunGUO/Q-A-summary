@@ -14,7 +14,10 @@
 
 ## Modeling
 ### Seq-Seq model（simple）
+初试版本，可以直接跳过
 
 ### Seq-Seq model with attention
+参考了Tensorflow官方的Seq-Seq with attention机器翻译版本，附链接：https://tensorflow.google.cn/tutorials/text/nmt_with_attention#定义优化器和损失函数
+
 
 ### Seq-Seq model with Pointer-Generator Networks
